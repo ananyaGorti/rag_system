@@ -1,10 +1,10 @@
 
 __pycache__/
 *.pyc
-
-
+.gradio
+.documents/
 .env
-
+venv/
 
 vectors/
 *.faiss
