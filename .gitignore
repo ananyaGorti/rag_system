@@ -1,8 +1,8 @@
 
 __pycache__/
 *.pyc
-.gradio
-.documents/
+gradio/
+documents/
 .env
 venv/
 
@@ -13,6 +13,8 @@ vectors/
 
 .vscode/
 .idea/
+certificate.pem
+key.pem
 
 
 .DS_Store
